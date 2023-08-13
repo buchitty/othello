@@ -1,0 +1,233 @@
+C:\Users\ユウジ\source\repos\オセロ\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\source\repos\オセロ\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\source\repos\オセロ\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\source\repos\オセロ\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\オセロ\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ4\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ5\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦3\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦4\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\ハイパー\ハイパーオセロ2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ2\オセロ\obj\Debug\オセロ.pdb
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\bin\Debug\オセロ.exe.config
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\bin\Debug\オセロ.exe
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\bin\Debug\オセロ.pdb
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.exe
+\\LANDISK-01BBFB\smileapp\001個人フォルダ\溝渕\プログラミング\オセロ2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.exe
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\obj\Debug\オセロ.pdb
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\bin\Debug\オセロ.exe
+C:\Users\SmileApp17\Desktop\オセロ2\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.csprojAssemblyReference.cache
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Desktop\オセロ20210514\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ20210514\オセロ\obj\Debug\オセロ.csproj.AssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.csproj.AssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210514\オセロ\obj\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe.config
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\bin\Debug\オセロ.pdb
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.AssemblyReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\Interop.WMPLib.dll
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.Form1.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.exe
+C:\Users\smile app02\Google ドライブ\01_プログラミング\課題\オセロ\オセロ_20210603\オセロ\obj\Debug\オセロ.pdb
+D:\デスクトップ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe.config
+D:\デスクトップ\オセロ_20210603\オセロ\bin\Debug\オセロ.exe
+D:\デスクトップ\オセロ_20210603\オセロ\bin\Debug\オセロ.pdb
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.AssemblyReference.cache
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\Interop.WMPLib.dll
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.ResolveComReference.cache
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.Form1.resources
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.Properties.Resources.resources
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.GenerateResource.cache
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.csproj.CoreCompileInputs.cache
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.exe
+D:\デスクトップ\オセロ_20210603\オセロ\obj\Debug\オセロ.pdb

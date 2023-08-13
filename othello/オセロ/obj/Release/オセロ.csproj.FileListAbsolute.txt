@@ -1,0 +1,10 @@
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Release\オセロ.exe.config
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Release\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\bin\Release\オセロ.pdb
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.csprojAssemblyReference.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.Form1.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.Properties.Resources.resources
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.csproj.GenerateResource.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.csproj.CoreCompileInputs.cache
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.exe
+C:\Users\ユウジ\Google ドライブ（buchiness27@gmail.com）\01_プログラミング\課題\対戦\対戦5\オセロ\obj\Release\オセロ.pdb
